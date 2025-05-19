@@ -1,12 +1,12 @@
-## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark #ms314006
+## Hey there 👋
 
 Hi, I'm Patrick! I am programmer.
 
 ## 🧠 Technical Skills
 ### 🖥️ Programming Languages & Frameworks
 - **JavaScript / TypeScript**
-  - React.js, Redux, Redux-Saga, React Router, Next.js
-  - Vue.js, Vuex, Vue Router
+  - React.js, Redux, Next.js
+  - Vue.js
   - Node.js, Express.js
 - **Golang, Python**
 
