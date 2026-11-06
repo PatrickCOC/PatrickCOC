@@ -2,6 +2,8 @@
 
 I build small tools, browser extensions, and occasionally games.
 
+![Me starting a "small project"](assets/small-project-mem.png)
+
 > Just a quick utility. Somehow, it's a framework now.
 
 ## Things I've built
